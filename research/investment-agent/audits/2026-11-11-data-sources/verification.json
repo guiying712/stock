@@ -1,0 +1,14 @@
+{
+  "review_date": "2026-11-11",
+  "kind": "documentation_only",
+  "registered_projects": 24,
+  "summary_rows": 24,
+  "projects_with_fixed_commit_references": 24,
+  "fixed_commit_links_checked": 145,
+  "relative_links_missing": [],
+  "original_snapshot_and_catalog_files_unchanged": 137,
+  "application_tests_run": false,
+  "market_data_requests": 0,
+  "upstream_projects_executed": false,
+  "credentials_read": false
+}

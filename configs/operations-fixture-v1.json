@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "synthetic-operations-v1",
+  "purpose": "fixture",
+  "strategy_version": "fixture-v1",
+  "calendar_version": "fixture-calendar-v1",
+  "target_universe_count": 12,
+  "universe_min_coverage": 0.98,
+  "sector_min_coverage": 0.9,
+  "p95_acceptance_seconds": 60,
+  "min_shadow_trading_days": 20,
+  "min_daily_slice_fraction": 0.98,
+  "max_data_age_seconds": 90,
+  "heartbeat_timeout_seconds": 180,
+  "restart_limit": 3,
+  "restart_backoff_seconds": 1,
+  "max_restart_backoff_seconds": 60,
+  "max_database_bytes": 2147483648,
+  "retention_days": 30
+}

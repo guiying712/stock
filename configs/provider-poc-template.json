@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "unverified-provider-poc-v1",
+  "purpose": "experimental",
+  "provider_name": "待选择的授权数据服务",
+  "authorization": {"confirmed": false, "reference": null},
+  "declared_capabilities": {"instruments": "unknown", "calendar": "unknown", "memberships": "unknown", "daily_bars": "unknown", "minute_history": "unknown", "adjustment_factors": "unknown", "minute_quotes": "unknown"},
+  "expected_boards": ["MAIN", "CHINEXT", "STAR"],
+  "expected_instrument_count": null,
+  "minimum_coverage": "0.98",
+  "minimum_sector_coverage": "0.90",
+  "minimum_trading_dates": 3,
+  "max_batches": 120,
+  "sample_times": []
+}

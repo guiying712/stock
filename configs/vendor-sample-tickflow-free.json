@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "tickflow-free-small-20261029",
+  "purpose": "experimental",
+  "provider": "tickflow_free",
+  "authorization": {
+    "confirmed": true,
+    "reference": "https://docs.tickflow.org/zh-Hans/quickstart （匿名研究学习接口；不代表市场数据许可已核验）"
+  },
+  "symbols": [
+    {"symbol": "600000.SH", "board": "MAIN"},
+    {"symbol": "000001.SZ", "board": "MAIN"},
+    {"symbol": "300750.SZ", "board": "CHINEXT"},
+    {"symbol": "688981.SH", "board": "STAR"},
+    {"symbol": "689009.SH", "board": "STAR"}
+  ],
+  "datasets": ["instruments", "daily_bars"],
+  "start_date": "2026-10-23",
+  "end_date": "2026-10-29",
+  "request_interval_seconds": "6.1",
+  "request_timeout_seconds": 15,
+  "max_requests": 6
+}

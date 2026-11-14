@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#153c3b">
+  <meta name="description" content="A 股热点启动与突破提醒，关注信号，更关注依据。">
+  <title>观势 · A 股热点雷达</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" type="module"></script>
+</head>
+<body>
+  <div id="login" class="login-screen">
+    <div class="login-visual" aria-hidden="true">
+      <div class="brand inverse"><span class="brand-symbol">观</span><span>观势<span class="brand-en">STOCK RADAR</span></span></div>
+      <div class="radar-art"><span class="radar-ring ring-one"></span><span class="radar-ring ring-two"></span><span class="radar-ring ring-three"></span><span class="radar-axis axis-one"></span><span class="radar-axis axis-two"></span><span class="radar-dot dot-one"></span><span class="radar-dot dot-two"></span><span class="radar-dot dot-three"></span><span class="radar-center"></span></div>
+      <div class="login-tagline"><h1>看见启动。<br>理解每一次提醒。</h1><p>市场环境 · 板块共振 · 个股突破</p></div>
+      <span class="login-footnote">个人研究工作台 / 第一版</span>
+    </div>
+    <div class="login-form-wrap">
+      <div class="mobile-brand">观势 <span>STOCK RADAR</span></div>
+      <form id="login-form" class="login-form">
+        <h2>进入你的观察台</h2><p id="login-help" class="muted">输入启动服务时终端显示的访问令牌。<br>令牌仅保存在当前浏览器会话。</p>
+        <label for="access-token">访问令牌</label><input id="access-token" name="token" type="password" required autocomplete="current-password" aria-describedby="login-help login-error" placeholder="粘贴终端中的访问令牌" spellcheck="false">
+        <p id="login-error" class="form-error" role="alert"></p>
+        <button class="button primary login-button" type="submit">连接工作台 <span data-icon="arrow"></span></button>
+        <div class="login-note"><span class="status-dot amber"></span>首次运行使用合成样例，不是真实行情。</div>
+      </form>
+    </div>
+  </div>
+  <div id="application" class="app-shell" hidden>
+    <button class="skip-link" type="button" data-action="skip-content">跳到主内容</button>
+    <aside class="sidebar">
+      <a class="brand" href="#market" aria-label="观势市场概览"><span class="brand-symbol">观</span><span>观势<span class="brand-en">STOCK RADAR</span></span></a>
+      <div class="sidebar-section">观察工作台</div>
+      <nav aria-label="主导航">
+        <a class="nav-link active" href="#market" data-nav="market" aria-current="page"><span data-icon="grid"></span><span>市场与热点</span></a>
+        <a class="nav-link" href="#signals" data-nav="signals"><span data-icon="radar"></span><span>机会信号</span><span id="nav-signal-count" class="nav-count">0</span></a>
+        <a class="nav-link" href="#research" data-nav="research"><span data-icon="flask"></span><span>策略与研究</span></a>
+        <a class="nav-link" href="#settings" data-nav="settings"><span data-icon="sliders"></span><span>设置与诊断</span></a>
+      </nav>
+      <div class="sidebar-bottom"><div class="scope-card"><span class="status-dot"></span><strong id="sidebar-scope">股票范围待加载</strong><p>热点启动突破 v1</p><span id="sidebar-mode" class="tag neutral">离线模拟</span></div><button id="logout" class="text-button logout-button"><span data-icon="logout"></span>退出工作台</button><span class="version-label">观势 / v0.2 · 个人研究</span></div>
+    </aside>
+    <div class="main-shell">
+      <header class="topbar"><div class="breadcrumb">工作台 <span>/</span> <strong id="breadcrumb-page">市场与热点</strong></div><div class="topbar-actions"><span id="connection-status" class="connection-label" role="status"><span class="status-dot"></span>服务已连接</span><button id="refresh" class="icon-button" title="刷新数据" aria-label="刷新数据"><span data-icon="refresh"></span></button><button id="open-notifications" class="icon-button notifications-button" title="通知中心" aria-label="打开通知中心"><span data-icon="bell"></span><i id="notification-dot" hidden></i></button><span class="avatar" title="本地单用户">我</span></div></header>
+      <main id="main-content" tabindex="-1"><div class="loading-block">正在加载工作台…</div></main>
+      <footer class="page-footer"><span>规则匹配度不代表上涨概率；信号与用户的实际交易独立记录。</span><span>行情时间 · Asia/Shanghai</span></footer>
+    </div>
+  </div>
+  <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+  <aside id="drawer" class="drawer" aria-modal="true" role="dialog" aria-labelledby="drawer-title" aria-label="信号详情" hidden></aside>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>

@@ -1,0 +1,207 @@
+{
+  "id": "fixture-v2-star",
+  "strategy_id": "hotspot_breakout_v1",
+  "mode": "fixture",
+  "purpose": "fixture",
+  "status": "frozen",
+  "feature_version": "features-v2-star",
+  "rules_version": "fixture-calendar-v1",
+  "research": {
+    "sector_filter": true,
+    "alert_stage": "early"
+  },
+  "preferences": {
+    "boards": [
+      "MAIN",
+      "CHINEXT",
+      "STAR"
+    ],
+    "max_loss_fraction": 0.1
+  },
+  "runtime": {
+    "slice_seconds": 60,
+    "stale_after_seconds": 90,
+    "collection_timeout_seconds": 15,
+    "group_window_seconds": 5,
+    "universe_min_coverage": 0.98,
+    "sector_min_coverage": 0.9,
+    "historical_min_coverage": 0.9
+  },
+  "market": {
+    "benchmark": "FIXTURE.BENCHMARK",
+    "short_window": 3,
+    "long_window": 10,
+    "volatility_window": 5,
+    "volatility_method": "population_std_daily_returns",
+    "high_volatility": 0.03,
+    "up_breadth": 0.55,
+    "down_breadth": 0.35,
+    "state_slices": 1
+  },
+  "sector": {
+    "rs_window_minutes": 2,
+    "rvol_days": 3,
+    "min_members": 3,
+    "min_rs": 0.002,
+    "min_delta_rs": 0.0005,
+    "min_breadth": 0.6,
+    "min_breakouts": 2,
+    "min_rvol": 1.2,
+    "max_concentration": 0.65,
+    "concentration_top_k": 1,
+    "max_extension": 0.15,
+    "extension_days": 3,
+    "candidate_slices": 1,
+    "confirm_slices": 2,
+    "confirm_rs": 0.003,
+    "confirm_breadth": 0.7,
+    "confirm_rvol": 1.4,
+    "unusual_rs": 0.001,
+    "exit_rs": -0.001,
+    "exit_breadth": 0.35,
+    "fade_slices": 2,
+    "reset_slices": 2,
+    "jaccard_threshold": 0.7
+  },
+  "stock": {
+    "MAIN": {
+      "lookback_days": 5,
+      "atr_days": 5,
+      "min_listing_days": 60,
+      "max_range_width": 0.15,
+      "breakout_buffer_atr": 0.1,
+      "invalidation_buffer_atr": 0.6,
+      "max_distance_atr": 1.5,
+      "min_rvol": 1.2,
+      "min_relative_strength": -0.002,
+      "min_amount_cny": 1000000,
+      "min_daily_amount_cny": 10000000
+    },
+    "CHINEXT": {
+      "lookback_days": 5,
+      "atr_days": 5,
+      "min_listing_days": 60,
+      "max_range_width": 0.18,
+      "breakout_buffer_atr": 0.1,
+      "invalidation_buffer_atr": 0.6,
+      "max_distance_atr": 1.8,
+      "min_rvol": 1.2,
+      "min_relative_strength": -0.002,
+      "min_amount_cny": 1000000,
+      "min_daily_amount_cny": 10000000
+    },
+    "STAR": {
+      "lookback_days": 5,
+      "atr_days": 5,
+      "min_listing_days": 60,
+      "max_range_width": 0.16,
+      "breakout_buffer_atr": 0.1,
+      "invalidation_buffer_atr": 0.6,
+      "max_distance_atr": 1.6,
+      "min_rvol": 1.25,
+      "min_relative_strength": -0.002,
+      "min_amount_cny": 1500000,
+      "min_daily_amount_cny": 20000000
+    }
+  },
+  "scoring": {
+    "alert_threshold": 55,
+    "groups": {
+      "market": {
+        "label": "市场匹配",
+        "weight": 0.2,
+        "features": [
+          {
+            "name": "market_breadth",
+            "weight": 1.0,
+            "low": 0.35,
+            "high": 0.8,
+            "inverse": false
+          }
+        ]
+      },
+      "sector": {
+        "label": "板块质量",
+        "weight": 0.3,
+        "features": [
+          {
+            "name": "sector_rs",
+            "weight": 0.25,
+            "low": 0.0,
+            "high": 0.02,
+            "inverse": false
+          },
+          {
+            "name": "sector_delta_rs",
+            "weight": 0.25,
+            "low": 0.0,
+            "high": 0.01,
+            "inverse": false
+          },
+          {
+            "name": "sector_breadth",
+            "weight": 0.25,
+            "low": 0.4,
+            "high": 1.0,
+            "inverse": false
+          },
+          {
+            "name": "sector_rvol",
+            "weight": 0.25,
+            "low": 1.0,
+            "high": 2.5,
+            "inverse": false
+          }
+        ]
+      },
+      "stock": {
+        "label": "个股相对表现",
+        "weight": 0.3,
+        "features": [
+          {
+            "name": "stock_rvol",
+            "weight": 0.6,
+            "low": 1.0,
+            "high": 2.5,
+            "inverse": false
+          },
+          {
+            "name": "stock_relative",
+            "weight": 0.4,
+            "low": -0.002,
+            "high": 0.015,
+            "inverse": false
+          }
+        ]
+      },
+      "entry": {
+        "label": "入场位置",
+        "weight": 0.2,
+        "features": [
+          {
+            "name": "entry_distance",
+            "weight": 0.5,
+            "low": 0.1,
+            "high": 1.8,
+            "inverse": true
+          },
+          {
+            "name": "risk_fraction",
+            "weight": 0.5,
+            "low": 0.01,
+            "high": 0.1,
+            "inverse": true
+          }
+        ]
+      }
+    }
+  },
+  "lifecycle": {
+    "entry_ttl_seconds": 1200,
+    "candidate_timeout_seconds": 180,
+    "reset_slices": 2,
+    "stock_confirm_slices": 2,
+    "daily_new_limit": 20
+  },
+  "schema_version": 2
+}

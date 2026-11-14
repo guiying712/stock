@@ -1,0 +1,212 @@
+[
+  {
+    "key": "sequoia",
+    "sha": "e2ee711413bf8435ea66146483860471b99e34f1",
+    "url": "https://github.com/sngyai/Sequoia-X/blob/444c0db69ff36b46ef2b22ab265051d60c16029d/sequoia_x/data/engine.py",
+    "lines": 334
+  },
+  {
+    "key": "w:integrations/data_source.py",
+    "sha": "b2907519c6c367fef120b6f32ed56acb3165df08",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/data_source.py",
+    "lines": 229
+  },
+  {
+    "key": "w:integrations/data_source_tickflow.py",
+    "sha": "9e6b1ec74ffe65d2943dfee2d52a77bf04c490bb",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/data_source_tickflow.py",
+    "lines": 87
+  },
+  {
+    "key": "w:integrations/tickflow_client.py",
+    "sha": "67512fcb5980cdbd8fff642f6857b1f76f7680a7",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/tickflow_client.py",
+    "lines": 537
+  },
+  {
+    "key": "w:integrations/stock_news_events.py",
+    "sha": "d05d92bd0c310a01738c65cded58d48d16ed273f",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/stock_news_events.py",
+    "lines": 114
+  },
+  {
+    "key": "w:integrations/data_source_akshare.py",
+    "sha": "e136752b84bac6aeba149dd475ce0197e2ed8415",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/data_source_akshare.py",
+    "lines": 61
+  },
+  {
+    "key": "w:integrations/data_source_tushare.py",
+    "sha": "f50e62c7bb15e382d89d4c03c2ca886dcd420680",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/data_source_tushare.py",
+    "lines": 62
+  },
+  {
+    "key": "w:integrations/data_source_efinance.py",
+    "sha": "56e61fae120cb5d486fe1ed9b019c766279e64b2",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/data_source_efinance.py",
+    "lines": 50
+  },
+  {
+    "key": "w:integrations/theme_news.py",
+    "sha": "f2336e4e7c09a25d9f1e4cf3b9e83492a5004ecc",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/theme_news.py",
+    "lines": 145
+  },
+  {
+    "key": "w:integrations/fundamental_history.py",
+    "sha": "6770b250b68ccfbbc823af8983c5c6c4f5362e95",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/fundamental_history.py",
+    "lines": 51
+  },
+  {
+    "key": "w:integrations/spot_snapshot.py",
+    "sha": "e9bd8c181551626d633139f3a66cc667a59bb4e2",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/spot_snapshot.py",
+    "lines": 201
+  },
+  {
+    "key": "w:integrations/tushare_client.py",
+    "sha": "13361b726636826ab1185fa815ca78e3a981c96a",
+    "url": "https://github.com/YoungCan-Wang/WyckoffTradingAgent/blob/30aa5da6c42061ef79683930df89fbd6bc746cc7/integrations/tushare_client.py",
+    "lines": 94
+  },
+  {
+    "key": "j:internal/services/market_provider.go",
+    "sha": "77e3b55a5b4d0634ccf283ce365fa9223dbfd058",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/services/market_provider.go",
+    "lines": 130
+  },
+  {
+    "key": "j:internal/services/market_provider_tdx.go",
+    "sha": "7d6b5a5c3e5f6ab77c685a973c9d7d42bc23bfbc",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/services/market_provider_tdx.go",
+    "lines": 472
+  },
+  {
+    "key": "j:internal/services/news_service.go",
+    "sha": "5440ef8495988f24eff39d2f2f42758c860c75ff",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/services/news_service.go",
+    "lines": 143
+  },
+  {
+    "key": "j:internal/services/market_service.go",
+    "sha": "ae2cdd8ac76eea6b5b35bc4f316d4e54dd6b6703",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/services/market_service.go",
+    "lines": 1760
+  },
+  {
+    "key": "j:internal/adk/tools/market_extra.go",
+    "sha": "629926bcd31a5581face413f19b593f26561770f",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/adk/tools/market_extra.go",
+    "lines": 59
+  },
+  {
+    "key": "j:internal/adk/tools/market_fundflow.go",
+    "sha": "3514c5f7907b0d7d90376473ba38ea9790cf3c46",
+    "url": "https://github.com/run-bigpig/jcp/blob/44af274e0bfa2cef1364527eda1c8e64dfd00a64/internal/adk/tools/market_fundflow.go",
+    "lines": 314
+  },
+  {
+    "key": "t:backend/app/data_providers/tickflow_provider.py",
+    "sha": "7e431cb382897763b42b11ad19247b415b5432ad",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/data_providers/tickflow_provider.py",
+    "lines": 140
+  },
+  {
+    "key": "t:backend/app/plugins/fuyao/provider.py",
+    "sha": "afceb53093eb3f95787a936e7870b3e867769240",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/plugins/fuyao/provider.py",
+    "lines": 1208
+  },
+  {
+    "key": "t:backend/app/plugins/tdxquant/provider.py",
+    "sha": "5f8533977260e63a1d7111d374c6c6948d633cc3",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/plugins/tdxquant/provider.py",
+    "lines": 931
+  },
+  {
+    "key": "t:backend/app/data_providers/registry.py",
+    "sha": "e7a39e6cb8fe541b3d3e5e96091f1970cd190d20",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/data_providers/registry.py",
+    "lines": 16
+  },
+  {
+    "key": "t:backend/app/tickflow/client.py",
+    "sha": "4c7a6b0e3f3c52f0ecf5a326766c67aa18eb4c4c",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/tickflow/client.py",
+    "lines": 138
+  },
+  {
+    "key": "t:backend/app/plugins/fuyao/client.py",
+    "sha": "4a93396bff2a48d5b62a763ec39233a458e88cc1",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/plugins/fuyao/client.py",
+    "lines": 303
+  },
+  {
+    "key": "t:backend/app/plugins/tdxquant/client.py",
+    "sha": "87268314fa9c94657c3f4a66c257a8b87e93803a",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/plugins/tdxquant/client.py",
+    "lines": 272
+  },
+  {
+    "key": "t:backend/app/data_providers/capabilities.py",
+    "sha": "0a067662c1684b07f4b0e687ee09d6afa76dec2a",
+    "url": "https://github.com/shy3130/tick-stock-panel/blob/a17742c97d70e6de1af9917844a38b75d963b101/backend/app/data_providers/capabilities.py",
+    "lines": 290
+  },
+  {
+    "key": "v:datasources/README.md",
+    "sha": "c25d69e0015657f364a87c6de833a578faff2f13",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/datasources/README.md",
+    "lines": 7
+  },
+  {
+    "key": "v:datasources/CATALOG.md",
+    "sha": "78ced2894c6181e50d047e8ec284321b456dc695",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/datasources/CATALOG.md",
+    "lines": 348
+  },
+  {
+    "key": "v:datasources/UPSTREAM.md",
+    "sha": "466b263248e457e75d74ed9c0e78a2ab2a5c9827",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/datasources/UPSTREAM.md",
+    "lines": 157
+  },
+  {
+    "key": "v:.agents/skills/data-access/scripts/fetch_quote.py",
+    "sha": "d73f04c5591b1be1690768acbe4c7513b92c972e",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/.agents/skills/data-access/scripts/fetch_quote.py",
+    "lines": 142
+  },
+  {
+    "key": "v:.agents/skills/data-access/scripts/fetch_kline.py",
+    "sha": "f151ad796223bbe6ea1553e725f7e90b89a01474",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/.agents/skills/data-access/scripts/fetch_kline.py",
+    "lines": 111
+  },
+  {
+    "key": "v:.agents/skills/data-access/scripts/sources/yahoo.py",
+    "sha": "3ee17ff9cc3e86d733204a52b170fa9b22ad0c8f",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/.agents/skills/data-access/scripts/sources/yahoo.py",
+    "lines": 174
+  },
+  {
+    "key": "v:.agents/skills/data-access/scripts/sources/sec.py",
+    "sha": "3479056ed4650639d746e8dcfc245cdb06698932",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/.agents/skills/data-access/scripts/sources/sec.py",
+    "lines": 218
+  },
+  {
+    "key": "v:.agents/skills/data-access/scripts/core/exa_client.py",
+    "sha": "2ace838198fd3a7513aab16dac9c90e68295327f",
+    "url": "https://github.com/simonlin1212/Vibe-Research/blob/db3a7c60afcb643abdf36933294765d1cbfc2b9c/.agents/skills/data-access/scripts/core/exa_client.py",
+    "lines": 179
+  },
+  {
+    "key": "a:SKILL.md",
+    "sha": "4b4c8d76f37479416adeb232ffc0a09596925e1f",
+    "url": "https://github.com/simonlin1212/a-stock-data/blob/cb57c7aba720380b48a11dd065c6db57a2c39db9/SKILL.md",
+    "lines": 7654
+  }
+]

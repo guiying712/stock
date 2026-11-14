@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "fuyao-daily-current-20261108-poc",
+  "purpose": "experimental",
+  "provider": "fuyao",
+  "authorization": {"confirmed": false, "reference": null},
+  "symbols": [
+    {"symbol": "600519.SH", "board": "MAIN"},
+    {"symbol": "300750.SZ", "board": "CHINEXT"},
+    {"symbol": "688981.SH", "board": "STAR"}
+  ],
+  "datasets": ["instruments", "daily_bars", "quotes", "calendar", "adjustment_factors", "sector_catalog", "memberships"],
+  "start_date": "2026-11-02",
+  "end_date": "2026-11-04",
+  "request_interval_seconds": "6.1",
+  "request_timeout_seconds": 15,
+  "max_requests": 20
+}

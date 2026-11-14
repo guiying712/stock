@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "public-minute-quality-template",
+  "purpose": "experimental",
+  "symbols": [
+    {
+      "symbol": "600000.SH",
+      "board": "MAIN"
+    },
+    {
+      "symbol": "300750.SZ",
+      "board": "CHINEXT"
+    },
+    {
+      "symbol": "688981.SH",
+      "board": "STAR"
+    }
+  ],
+  "calendar": {
+    "version": null,
+    "evidence": null,
+    "dates": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28",
+      "2026-10-29",
+      "2026-10-30"
+    ],
+    "sessions": [
+      [
+        "09:30",
+        "11:30"
+      ],
+      [
+        "13:00",
+        "15:00"
+      ]
+    ]
+  },
+  "profiles": [
+    {
+      "provider": "sina_public",
+      "dataset": "intraday",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    },
+    {
+      "provider": "eastmoney_public",
+      "dataset": "intraday",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    }
+  ]
+}

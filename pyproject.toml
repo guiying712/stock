@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stockradar"
+version = "0.2.8"
+description = "本地 A 股热点启动与突破提醒研究工作台"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+stockradar = "stockradar.__main__:main"
+
+[tool.setuptools.package-data]
+stockradar = ["static/*", "fixture*.json"]
+
+[tool.setuptools.packages.find]
+include = ["stockradar*"]

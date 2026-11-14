@@ -1,0 +1,350 @@
+{
+  "checked_on": "2026-11-11",
+  "scope": "archived fixed commits, not latest main; GitHub connector static reads only",
+  "files": [
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/core/data_source_priority.py",
+      "blob_sha": "dc343351737b11919c7804a57a0892f16a9283a3",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/core/data_source_priority.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/akshare_adapter.py",
+      "blob_sha": "c8ad1586f4d961377b1260f313832e5605ca7774",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/akshare_adapter.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/baostock_adapter.py",
+      "blob_sha": "74f6d4297e75acaf7c56fcbb5619719471e0e948",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/baostock_adapter.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/base.py",
+      "blob_sha": "1b097fbf15406905558efe289ee765af36cf7ce7",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/base.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/manager.py",
+      "blob_sha": "19fc0040dcab4838d680938628783b51217628cc",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/manager.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/qmt_adapter.py",
+      "blob_sha": "b7851b7bdcb5e56fcd86aed9bdeeee37c8792d31",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/qmt_adapter.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "app/services/data_sources/tushare_adapter.py",
+      "blob_sha": "e9c3c7b900b23472c54a9d57118342e7acbe3908",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/app/services/data_sources/tushare_adapter.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "core/tools/external/external_data_source_catalog.py",
+      "blob_sha": "177966b05a116fe028849f618740f5b579902481",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/core/tools/external/external_data_source_catalog.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "tradingagents/dataflows/news/chinese_finance.py",
+      "blob_sha": "83c4ef454fcafd809981bf1d5c554b8725389911",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/tradingagents/dataflows/news/chinese_finance.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "hsliuping/TradingAgents-CN",
+      "ref": "51060a7682cf51810b4bc3a704829438d18cd8dc",
+      "path": "tradingagents/dataflows/providers/china/akshare.py",
+      "blob_sha": "61f9b8f238eea17eb7ff9d4b345a7f10a12c980c",
+      "url": "https://github.com/hsliuping/TradingAgents-CN/blob/51060a7682cf51810b4bc3a704829438d18cd8dc/tradingagents/dataflows/providers/china/akshare.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/agents/analysts/news_analyst.py",
+      "blob_sha": "df80d114e96a16faf3c5358bd4ab01177939ee8f",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/agents/analysts/news_analyst.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/router.py",
+      "blob_sha": "b047e7699ca3bc600fa554a7cbe46b8a1e6e7088",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/router.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/alpha_vantage/stock.py",
+      "blob_sha": "2a067167185cddba48625fa3ce7f7e5175d523ff",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/alpha_vantage/stock.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/reddit.py",
+      "blob_sha": "299e99e18f28c6582dabb19cc461f0427ccfb7c8",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/reddit.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/sec_edgar.py",
+      "blob_sha": "7ed95fd7819f068d37628aa0bc6368869bc4dc65",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/sec_edgar.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/stocktwits.py",
+      "blob_sha": "79073982be66d3aae5ffc9619fe9bee14a4e59bf",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/stocktwits.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/yahoo/market.py",
+      "blob_sha": "922b55761c070c362efe5ab0e8d8bbeeff868638",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/yahoo/market.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/dataflows/vendors/yahoo/ohlcv.py",
+      "blob_sha": "beb612f223899ccee5984dd79ef27c5545493208",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/dataflows/vendors/yahoo/ohlcv.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "ref": "c4544913a14ed3df5f1ed7b9e8483270ce20682a",
+      "path": "tradingagents/default_config.py",
+      "blob_sha": "2ce4fadc65a1de07bc944803a7fd2d9c71a45a72",
+      "url": "https://github.com/TauricResearch/TradingAgents/blob/c4544913a14ed3df5f1ed7b9e8483270ce20682a/tradingagents/default_config.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/__init__.py",
+      "blob_sha": "ffd457483dd613d365b2f5b08741d945fb61a8aa",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/__init__.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/akshare_fetcher.py",
+      "blob_sha": "148413f30b2057009a38c3b15dc32823a4a6b66f",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/akshare_fetcher.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/base.py",
+      "blob_sha": "0006af9b59835934d00b09ed9a288d108fc65a74",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/base.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/efinance_fetcher.py",
+      "blob_sha": "1c4bbfd66211ebc1fcbbcf1c5fa4919a228a5992",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/efinance_fetcher.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/fundamental_adapter.py",
+      "blob_sha": "87dd80a5c893ee74ba171d77c572aaf8c2b926ff",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/fundamental_adapter.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "data_provider/tushare_fetcher.py",
+      "blob_sha": "ece41f2d520cdba4c95eb4e71fdae6e803edeace",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/data_provider/tushare_fetcher.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "src/config.py",
+      "blob_sha": "aaae120c09a6a88cba8e245613f4a29b63555c0a",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/src/config.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "src/search_service.py",
+      "blob_sha": "02cc6cd977714d9bfe81aa848ac075e9d6d49cd4",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/src/search_service.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "src/services/intelligence_service.py",
+      "blob_sha": "f12b4750d264406439aa46510a27a416028c52e8",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/src/services/intelligence_service.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/daily_stock_analysis",
+      "ref": "4e6226430b76124e5f43b19201fc6338a62f5e1d",
+      "path": "src/services/social_sentiment_service.py",
+      "blob_sha": "e2261b6d4fb3ff99aac8517b70eff8ce74255341",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis/blob/4e6226430b76124e5f43b19201fc6338a62f5e1d/src/services/social_sentiment_service.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "packages/marketdata/README.md",
+      "blob_sha": "c09d20b43a17c0cd614b3d0ea2a822e3c931d53d",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/packages/marketdata/README.md",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "packages/marketdata/src/marketdata/defaults.py",
+      "blob_sha": "1661928ede0b9f693880800fe08042828602f8e8",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/packages/marketdata/src/marketdata/defaults.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "packages/marketdata/src/marketdata/vendors/flash_news.py",
+      "blob_sha": "a6eac9aacc7e39093585bf4ce3552a37d8e290da",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/packages/marketdata/src/marketdata/vendors/flash_news.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "packages/marketdata/src/marketdata/vendors/kline.py",
+      "blob_sha": "f5a580d0b8294fc4d7625edacdda76ff44a99bd3",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/packages/marketdata/src/marketdata/vendors/kline.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "packages/marketdata/src/marketdata/vendors/news.py",
+      "blob_sha": "5540295e744181ccde573829176233e57d28d619",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/packages/marketdata/src/marketdata/vendors/news.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "TNT-Likely/PanWatch",
+      "ref": "1c272a825c2713e3701d8ce81622f9c49dacbef7",
+      "path": "src/platform/persistence/database.py",
+      "blob_sha": "63e0c73fe343e4e43f06b9e67cf5001908e55002",
+      "url": "https://github.com/TNT-Likely/PanWatch/blob/1c272a825c2713e3701d8ce81622f9c49dacbef7/src/platform/persistence/database.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/alphasift",
+      "ref": "20b9a33bc051e07572fb012b07c58f5aa706dc91",
+      "path": "alphasift/candidate_context.py",
+      "blob_sha": "5536e26e39be28727f0064faa088cd29013c87ac",
+      "url": "https://github.com/ZhuLinsen/alphasift/blob/20b9a33bc051e07572fb012b07c58f5aa706dc91/alphasift/candidate_context.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/alphasift",
+      "ref": "20b9a33bc051e07572fb012b07c58f5aa706dc91",
+      "path": "alphasift/config.py",
+      "blob_sha": "3aa1143c8621b65f457bfedf5e9d94875889ab49",
+      "url": "https://github.com/ZhuLinsen/alphasift/blob/20b9a33bc051e07572fb012b07c58f5aa706dc91/alphasift/config.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/alphasift",
+      "ref": "20b9a33bc051e07572fb012b07c58f5aa706dc91",
+      "path": "alphasift/daily.py",
+      "blob_sha": "d8077aa349336aaacbae34a45e38265c68e559d3",
+      "url": "https://github.com/ZhuLinsen/alphasift/blob/20b9a33bc051e07572fb012b07c58f5aa706dc91/alphasift/daily.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/alphasift",
+      "ref": "20b9a33bc051e07572fb012b07c58f5aa706dc91",
+      "path": "alphasift/industry.py",
+      "blob_sha": "78f251e6c9101904ef4a964b706d1acafed39d40",
+      "url": "https://github.com/ZhuLinsen/alphasift/blob/20b9a33bc051e07572fb012b07c58f5aa706dc91/alphasift/industry.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "ZhuLinsen/alphasift",
+      "ref": "20b9a33bc051e07572fb012b07c58f5aa706dc91",
+      "path": "alphasift/snapshot.py",
+      "blob_sha": "d789ea3bd4439df14c41aecb03184936357467a8",
+      "url": "https://github.com/ZhuLinsen/alphasift/blob/20b9a33bc051e07572fb012b07c58f5aa706dc91/alphasift/snapshot.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "Weaxs/stock-analysis-plugin",
+      "ref": "4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d",
+      "path": "tools/search_intel.py",
+      "blob_sha": "3ad514e20a05dc4d493f9faa09d9efd408856a6d",
+      "url": "https://github.com/Weaxs/stock-analysis-plugin/blob/4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d/tools/search_intel.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "Weaxs/stock-analysis-plugin",
+      "ref": "4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d",
+      "path": "tools/stock_data.py",
+      "blob_sha": "21736c65a04aa8637131eb471a6cece46f417a1e",
+      "url": "https://github.com/Weaxs/stock-analysis-plugin/blob/4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d/tools/stock_data.py",
+      "checked": "static content read; not executed"
+    },
+    {
+      "repository": "Weaxs/stock-analysis-plugin",
+      "ref": "4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d",
+      "path": "tools/value_data.py",
+      "blob_sha": "55fdd02c89551736651df4a2b1e20a43a00d1dd6",
+      "url": "https://github.com/Weaxs/stock-analysis-plugin/blob/4aeb5e8993c3f51eac18ffcc6c5fd53bb86f258d/tools/value_data.py",
+      "checked": "static content read; not executed"
+    }
+  ]
+}

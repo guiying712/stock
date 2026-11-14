@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "synthetic-provider-poc-v1",
+  "purpose": "fixture",
+  "provider_name": "合成接入验收样例",
+  "authorization": {"confirmed": true, "reference": "project-generated-synthetic-data"},
+  "declared_capabilities": {"instruments": "available", "calendar": "available", "memberships": "available", "daily_bars": "available", "minute_history": "available", "adjustment_factors": "available", "minute_quotes": "available"},
+  "expected_boards": ["MAIN", "CHINEXT", "STAR"],
+  "expected_instrument_count": 15,
+  "minimum_coverage": "0.98",
+  "minimum_sector_coverage": "0.90",
+  "minimum_trading_dates": 1,
+  "max_batches": 20,
+  "sample_times": []
+}

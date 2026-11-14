@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "simulation-dispatch-fixture-v1",
+  "strategy_version": "fixture-v2-star",
+  "transport": "local_simulation",
+  "clock_mode": "simulated",
+  "simulation_start": "2026-10-28T02:00:00Z",
+  "poll_interval_seconds": 0.25,
+  "heartbeat_timeout_seconds": 10,
+  "max_messages_per_tick": 20,
+  "shutdown_timeout_seconds": 5,
+  "drain_timeout_seconds": 6
+}

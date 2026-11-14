@@ -1,0 +1,43 @@
+# 18 · wilsonfreitas/awesome-quant
+
+## 版本与来源
+
+- 仓库：https://github.com/wilsonfreitas/awesome-quant
+- 固定提交：[查看源码快照](https://github.com/wilsonfreitas/awesome-quant/tree/b52a1a942eda36a6539b886f26a4a391883580d6)，`b52a1a942eda36a6539b886f26a4a391883580d6`。
+- 默认分支：`main`。默认分支快照不代表稳定发布版。
+- 采集时间（UTC）：2026-10-28T15:36:29.497941+00:00。
+- GitHub pushed_at（UTC）：2026-10-28T01:03:34Z；该字段不等于已验证的发布频率或维护质量。
+- Star：30329；Fork：4240；open_issues_count：197（GitHub 该计数含 PR，非未解决 bug 数）。
+- 主要语言（API）：HTML；归档：否。
+- [固定版本 README](https://github.com/wilsonfreitas/awesome-quant/blob/b52a1a942eda36a6539b886f26a4a391883580d6/README.md) · [本地 README](../sources/wilsonfreitas__awesome-quant/README.txt) · [元数据与哈希](../sources/wilsonfreitas__awesome-quant/provenance.json)。
+
+## 项目定位与依赖（仓库文档陈述）
+
+量化金融库、数值工具和研究资源目录。
+
+运行与数据依赖：文档/链接索引；每个外部项目独立评估。
+
+## 在个人投资智能体中的位置（我们的初步判断）
+
+分类：资源索引。验证优先级：**P2**。
+
+保留为工具发现入口，不加入产品运行依赖。
+
+## 许可与复用边界
+
+未确认：API 无许可证，常见根目录许可文件未取到。
+
+未取得常见根目录许可文件，不等于已证明整个仓库没有许可证。直接复制代码或文档前，检查文件树并向上游确认。
+
+## 最小验证任务
+
+若选中列表中的其他库，另建版本、许可和可用性档案；不能继承本目录的许可判断。
+
+验收材料必须包含：固定 commit、依赖锁定、脱敏配置、输入数据快照、运行日志、输出产物、耗时/调用成本、失败与恢复记录。当前执行状态：**未运行，待 PoC**。
+
+## 当前信息缺口
+
+- 尚未核对所有源文件、依赖清单、完整测试集或近期 Issue/PR。
+- 市场覆盖、行情权限、数据费用和券商可交易性需要按最终使用场景逐项实测。
+- 原 README 中相对图片和文档链接以在线固定版本为准；本地仅保存文本，未镜像外链资源。
+- 采集异常：LICENSE: not retrieved; HTTP Error 404: Not Found。

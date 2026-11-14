@@ -1,0 +1,248 @@
+{
+  "schema_version": 2,
+  "id": "minute-quality-phases-template",
+  "purpose": "experimental",
+  "symbols": [
+    {
+      "symbol": "600000.SH",
+      "board": "MAIN"
+    },
+    {
+      "symbol": "300750.SZ",
+      "board": "CHINEXT"
+    },
+    {
+      "symbol": "688981.SH",
+      "board": "STAR"
+    }
+  ],
+  "calendar": {
+    "version": null,
+    "evidence": null,
+    "dates": [
+      "2026-11-06"
+    ],
+    "phases": [
+      {
+        "id": "opening",
+        "kind": "opening_auction",
+        "start": "09:15",
+        "end": "09:25"
+      },
+      {
+        "id": "morning",
+        "kind": "continuous",
+        "start": "09:30",
+        "end": "11:30"
+      },
+      {
+        "id": "afternoon",
+        "kind": "continuous",
+        "start": "13:00",
+        "end": "14:57"
+      },
+      {
+        "id": "closing",
+        "kind": "closing_auction",
+        "start": "14:57",
+        "end": "15:00"
+      },
+      {
+        "id": "after_hours",
+        "kind": "after_hours",
+        "start": "15:05",
+        "end": "15:30"
+      }
+    ]
+  },
+  "profiles": [
+    {
+      "provider": "tushare",
+      "dataset": "minute_quotes",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown",
+      "phase_rules": [
+        {
+          "phase_id": "opening",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "morning",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "afternoon",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "closing",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "after_hours",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        }
+      ],
+      "no_trade_policy": {
+        "mode": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "provider": "tushare",
+      "dataset": "intraday",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown",
+      "phase_rules": [
+        {
+          "phase_id": "opening",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "morning",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "afternoon",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "closing",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "after_hours",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        }
+      ],
+      "no_trade_policy": {
+        "mode": "unknown",
+        "evidence": null
+      }
+    },
+    {
+      "provider": "tushare",
+      "dataset": "minute_history",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown",
+      "phase_rules": [
+        {
+          "phase_id": "opening",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "morning",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "afternoon",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "closing",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        },
+        {
+          "phase_id": "after_hours",
+          "mode": "unknown",
+          "label_at": null,
+          "evidence": null
+        }
+      ],
+      "no_trade_policy": {
+        "mode": "unknown",
+        "evidence": null
+      }
+    }
+  ],
+  "security_days": [
+    {
+      "symbol": "600000.SH",
+      "date": "2026-11-06",
+      "status": "unknown",
+      "evidence": null,
+      "intervals": []
+    },
+    {
+      "symbol": "300750.SZ",
+      "date": "2026-11-06",
+      "status": "unknown",
+      "evidence": null,
+      "intervals": []
+    },
+    {
+      "symbol": "688981.SH",
+      "date": "2026-11-06",
+      "status": "unknown",
+      "evidence": null,
+      "intervals": []
+    }
+  ]
+}

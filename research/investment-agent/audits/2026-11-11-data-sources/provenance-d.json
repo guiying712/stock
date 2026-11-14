@@ -1,0 +1,225 @@
+{
+  "review_date": "2026-11-11",
+  "timezone": "America/Los_Angeles",
+  "method": "GitHub connector fetch_file, fixed archived commit",
+  "scope": "Available metadata from follow-up reads for appendix D; earlier cited reads are not all represented",
+  "records": [
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/service.js",
+      "git_blob_sha": "e1b63f7b2d19d21180a72b18150a8e33ccf2b224",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/service.js",
+      "line_count": 269
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/eastmoney.js",
+      "git_blob_sha": "efffd104d3fd98afc9c359fc3e78dce3cdf3afe8",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/eastmoney.js",
+      "line_count": 159
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/tencent.js",
+      "git_blob_sha": "6e7df73231ecd887fd6a92c1018b6c8b754c30a7",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/tencent.js",
+      "line_count": 159
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/yahoo.js",
+      "git_blob_sha": "5b5fa1ca017d9ff289203c87dc4f44b17a7749ed",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/yahoo.js",
+      "line_count": 137
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/news.js",
+      "git_blob_sha": "1a58abfc52002ce1339621c769230f909f8f758f",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/news.js",
+      "line_count": 78
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/financials.js",
+      "git_blob_sha": "3ed2f3c713f19651d133229f5d29276593861b4b",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/financials.js",
+      "line_count": 46
+    },
+    {
+      "repository": "suifei/dsh-market-lens",
+      "path": "lib/sources/posts.js",
+      "git_blob_sha": "cd7e709b86dc8d6e7e7f1fd7779f40ba1151919a",
+      "url": "https://github.com/suifei/dsh-market-lens/blob/9ed847797bc0eabcd3d46f3724da4df40e4fcbba/lib/sources/posts.js",
+      "line_count": 92
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/index.cjs",
+      "git_blob_sha": "192a37950adf9d4534d69a089178968140c1eb29",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/index.cjs",
+      "line_count": 702
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/tencent.cjs",
+      "git_blob_sha": "47644a0ee823e5d882c7367c1e7940707ae7f48d",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/tencent.cjs",
+      "line_count": 271
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/sina.cjs",
+      "git_blob_sha": "54423f0a997f497faada969c34c59f388462f668",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/sina.cjs",
+      "line_count": 97
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/eastmoney.cjs",
+      "git_blob_sha": "2f5d24574486b7dcd22db0342da40c84f5154a5e",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/eastmoney.cjs",
+      "line_count": 307
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/eastmoney-fin.cjs",
+      "git_blob_sha": "3d1ca76a5a661741477bc07a6fd916c347f7a5b1",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/eastmoney-fin.cjs",
+      "line_count": 246
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/moneyflow.cjs",
+      "git_blob_sha": "0e4a1bb3f71632a271577ded8023cac5c235faab",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/moneyflow.cjs",
+      "line_count": 430
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/futures.cjs",
+      "git_blob_sha": "f13b2f9313c7d1cb65fc03657b2126eaad557e3b",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/futures.cjs",
+      "line_count": 269
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/gold.cjs",
+      "git_blob_sha": "937e5e56d0f200c1334d3019f0da09f5ead69bd4",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/gold.cjs",
+      "line_count": 282
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/sunsirs.cjs",
+      "git_blob_sha": "d90e24332f8534ccfd055a2e3e73af7d30d4e875",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/sunsirs.cjs",
+      "line_count": 142
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/treasuries.cjs",
+      "git_blob_sha": "be9e839470c44a8dc27c98e023de7c457dcde0cf",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/treasuries.cjs",
+      "line_count": 95
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/fred-ppi.cjs",
+      "git_blob_sha": "ac0700c8f307d50326b87e94e34f5e28bd222823",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/fred-ppi.cjs",
+      "line_count": 37
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/sec-capex.cjs",
+      "git_blob_sha": "181512f43fb5ae916339978b8794c2a5cda4d782",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/sec-capex.cjs",
+      "line_count": 84
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/ai-infra.cjs",
+      "git_blob_sha": "0719a67746fd99f38779fe08a4ef0c92d0f63402",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/ai-infra.cjs",
+      "line_count": 205
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/ai-models.cjs",
+      "git_blob_sha": "462361db9e84e50a2c09c8cdb696af63b690cd43",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/ai-models.cjs",
+      "line_count": 138
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/ai.cjs",
+      "git_blob_sha": "f984006c6a76e1c35fc5dd4dc0c54b13492c64ea",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/ai.cjs",
+      "line_count": 131
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/openrouter.cjs",
+      "git_blob_sha": "a8df4536f73080fbd42fdb2d69566d96a810826f",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/openrouter.cjs",
+      "line_count": 121
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/sources/token-prices.cjs",
+      "git_blob_sha": "21875593b7563b0cdef918824f1eaafada493a5a",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/sources/token-prices.cjs",
+      "line_count": 73
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "server/lib/tencent-urls.cjs",
+      "git_blob_sha": "60a0dba33b6cf24071eb4f76de2bc7d18f3fba99",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/server/lib/tencent-urls.cjs",
+      "line_count": 27
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "src/lib/api.ts",
+      "git_blob_sha": "c352a8d2419a8a5872ed3d1f5d0b3054e5648a14",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/src/lib/api.ts",
+      "line_count": 720
+    },
+    {
+      "repository": "theBigGavin/marketingdashboard",
+      "path": "src/lib/tv.ts",
+      "git_blob_sha": "cc95aaef3a8485de3a7227d5063f93c6c590e9be",
+      "url": "https://github.com/theBigGavin/marketingdashboard/blob/2d71054d76bb78b82ddb7818af4bdff49a6179a7/src/lib/tv.ts",
+      "line_count": 58
+    },
+    {
+      "repository": "Open-Dev-Society/OpenStock",
+      "path": "lib/actions/finnhub.actions.ts",
+      "git_blob_sha": "095f2355fa8e8dbd2232fce497b6dbf1a59683ad",
+      "url": "https://github.com/Open-Dev-Society/OpenStock/blob/b72306d39fa27dc55252ceecf858165ecf5a3fa3/lib/actions/finnhub.actions.ts",
+      "line_count": 379
+    },
+    {
+      "repository": "Open-Dev-Society/OpenStock",
+      "path": "lib/actions/adanos.actions.ts",
+      "git_blob_sha": "b518320ccc6099e3ee612bd6d48bb605d0aa370f",
+      "url": "https://github.com/Open-Dev-Society/OpenStock/blob/b72306d39fa27dc55252ceecf858165ecf5a3fa3/lib/actions/adanos.actions.ts",
+      "line_count": 86
+    },
+    {
+      "repository": "wbh604/UZI-Skill",
+      "path": "skills/deep-analysis/scripts/lib/data_sources.py",
+      "git_blob_sha": "7699547a0fa9e7ada4e71214560ac5a9fcc7f6c1",
+      "url": "https://github.com/wbh604/UZI-Skill/blob/3dc556bdad8229fad01dc54c83d6d9402ef6218c/skills/deep-analysis/scripts/lib/data_sources.py",
+      "line_count": 1593
+    },
+    {
+      "repository": "wbh604/UZI-Skill",
+      "path": "skills/deep-analysis/scripts/lib/daily_screen/sources.py",
+      "git_blob_sha": "a527498d32bd9a054fe81531f0cd752cf34038cb",
+      "url": "https://github.com/wbh604/UZI-Skill/blob/3dc556bdad8229fad01dc54c83d6d9402ef6218c/skills/deep-analysis/scripts/lib/daily_screen/sources.py",
+      "line_count": 233
+    }
+  ]
+}

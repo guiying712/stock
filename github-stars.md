@@ -1,0 +1,607 @@
+# guiying712 的公开 GitHub Star 项目
+
+共 589 个项目。
+
+- [Molly1116/Antigravity-China-Access](https://github.com/Molly1116/Antigravity-China-Access) — Google Antigravity 中国大陆网络连接解决方案
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) — AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He
+- [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) — Open-Source Generative UI Framework
+- [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) — Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks
+- [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) — Production-grade Rust-native trading engine with deterministic event-driven architecture
+- [morluto/rea](https://github.com/morluto/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) — CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+- [shijianzhong/rea](https://github.com/shijianzhong/rea) — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline) — Isometric line figures that answer the pointer. For React and for anything with a DOM.
+- [chengyi-ai/native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) — 保留视频内嵌字幕，精确取帧并生成 3:4 社交长图的 Agent Skill
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) — A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) — "Vibe-Trading: Your Personal Trading Agent"
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) — Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [outline/outline](https://github.com/outline/outline) — The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) — Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)
+- [jeremyipark/vision-demos](https://github.com/jeremyipark/vision-demos) — Fun real-world computer vision demos!
+- [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) — Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: <https://discord.gg/EMgGbDceNQ> and follow here for daily tips and tricks: <https://x.com/Scrapling_dev>
+- [whaleyxbt/patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced) — Browser automation toolkit for QA, monitoring and internal workflows
+- [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) — Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
+- [makeplane/plane](https://github.com/makeplane/plane) — 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [abcwyc/pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop) — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+- [dataease/dataease](https://github.com/dataease/dataease) — 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) — claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+- [YoungCan-Wang/WyckoffTradingAgent](https://github.com/YoungCan-Wang/WyckoffTradingAgent) — Open-source Wyckoff trading agent and AI stock screener for volume-price analysis, A-share screening, CLI workflows, and MCP tools.灵感来自秋生trader @Hoyooyoo
+- [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) — 🖥️ Run AI Agent in your browser.
+- [thesysdev/openui](https://github.com/thesysdev/openui) — The Open Standard for Generative UI
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
+- [google/artemis](https://github.com/google/artemis) — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.
+- [TencentCloud/Octop](https://github.com/TencentCloud/Octop) — A smarter, self-hosted AI assistant — multi-user, multi-agent.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) — 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+- [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data) — A股全栈数据工具包：行情K线·当日逐笔·研报·信号·资金面·新闻·财务·公告·打板·ETF期权·舆情·宏观利率·期货大宗(含大商所日K)·事件驱动·可转债 | 15层·87端点·34数据源·除iwencai外免Key | A-share data for AI agents: K-lines, ticks, reports, fund flow, news, financials, filings, options, macro, futures, events, convertibles | 15 layers·87 endpoints·34 sources
+- [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) — The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) — Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord <https://discord.gg/VuxzM8mtf>
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek Harness: Everything is a Plugin.
+- [earendil-works/pi](https://github.com/earendil-works/pi) — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) — NOW MANAGED ON CODEBERG
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) — Easy to maintain open source documentation websites.
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) — Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) — The authentication glue you need.
+- [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) — FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) — A reliable coding agent for complex software engineering tasks.
+- [andrewyng/openworker](https://github.com/andrewyng/openworker)
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) — 📜 诗泉：高性能中国古诗词 API 服务
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) — 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
+- [zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide) — 美股指南
+
+
+- [Jingyi-Wu-Richael/douyin-rule-check](https://github.com/Jingyi-Wu-Richael/douyin-rule-check) — 基于 2025 年 12 月更新的巨量星图官方规范，全方位检查视频的画面内容、文字文案以及口播语音，重点识别引导外流（如私下交易、第三方平台导流）和诱导下载等违规行为，适用于短视频发布前的合规性自检，降低因违规导致的限流或封禁风险。
+- [chainbase-labs/Agentkey](https://github.com/chainbase-labs/Agentkey) — Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) — SumatraPDF reader
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) — A rule-based tunnel for Android.
+- [chen08209/FlClash](https://github.com/chen08209/FlClash) — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) — An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+- [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+- [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) — A fork of Windows Terminal with native agent integration, right in your command line.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) — Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [ssnhd/giffgaff](https://github.com/ssnhd/giffgaff)
+- [Silentely/eSIM-Tools](https://github.com/Silentely/eSIM-Tools) — 专为已有 Giffgaff 和 Simyo 号码的用户设计的现代化 eSIM 管理工具集，支持将物理 SIM 卡转换为 eSIM、设备更换和二维码生成。(A modern set of eSIM management tools designed specifically for users who already have Giffgaff and Simyo numbers, offering support for converting physical SIM cards to eSIMs, device replacements, and QR code generation.)
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) — 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [kritishmohapatra/100\_Days\_100\_IoT\_Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) — A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation.
+- [shy3130/tick-stock-panel](https://github.com/shy3130/tick-stock-panel) — TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your network traffic 🕵️‍♂️
+- [stablyai/orca](https://github.com/stablyai/orca) — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) — Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [apple/container](https://github.com/apple/container) — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) — OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+- [t8y2/dbx](https://github.com/t8y2/dbx) — 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) — 基于Python的开源量化交易平台开发框架
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) — Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — Write HTML. Render video. Built for agents.
+- [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) — Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) — Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+- [alibaba/zvec](https://github.com/alibaba/zvec) — A lightweight, lightning-fast, in-process vector database
+- [0xMassi/webclaw](https://github.com/0xMassi/webclaw) — Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you
+- [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) — :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill) — 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) — Learn AI Engineering! Learn it. Build it. Ship it for others.
+- [anonfaded/FadCam](https://github.com/anonfaded/FadCam) — Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
+- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — Let's use AI to Earn!
+- [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) — A financial agent for investment research
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) — 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+- [Thysrael/Horizon](https://github.com/Thysrael/Horizon) — 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) — A collective list of free APIs
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [browserbase/skills](https://github.com/browserbase/skills) — Browserbase's official collection of agent skills to access the web.
+- [evoiz/Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)
+- [mayukh4/linux-android](https://github.com/mayukh4/linux-android) — Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud.
+- [google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems
+- [microsoft/qlib](https://github.com/microsoft/qlib) — Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with <https://github.com/microsoft/RD-Agent> to automate R\&D process.
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — Kronos: A Foundation Model for the Language of Financial Markets
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) — 所有小初高、大学PDF教材。
+
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — PersonaPlex code.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) — Connect to any agents with WeChat ClawBot.
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) — AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [cft0808/edict](https://github.com/cft0808/edict) — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
+- [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) — 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+- [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery) — This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Learning and Generative AI that I have done while understanding Advanced Techniques & Concepts.
+- [automata/aicodeguide](https://github.com/automata/aicodeguide) — AI Code Guide is a roadmap to start coding with AI
+- [google/langextract](https://github.com/google/langextract) — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [run-bigpig/jcp](https://github.com/run-bigpig/jcp) — 韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) — 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [pipeshub-ai/pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) — The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) — An AI prompt optimizer for writing better prompts and getting better AI results.
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) — 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) — The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
+- [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) — 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
+- [eikek/docspell](https://github.com/eikek/docspell) — Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) — Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
+- [makerever/rever](https://github.com/makerever/rever) — Rever AI - powered finance automation that elevates control, unifies systems, and enables foresight for modern CFOs.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) — Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) — 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
+- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) — Yet Another Document Translator
+- [likaia/nginxpulse](https://github.com/likaia/nginxpulse) — 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+- [ZhuLinsen/daily\_stock\_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+- [Sync-in/server](https://github.com/Sync-in/server) — Sync-in · Sovereign platform for file storage, sharing, synchronization, and collaboration.
+- [vicanso/zedis](https://github.com/vicanso/zedis) — Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.
+- [dromara/tianai-captcha](https://github.com/dromara/tianai-captcha) — captcha captcha captcha 可能是java界最好的开源行为验证码  [滑块验证码、点选验证码、行为验证码、旋转验证码， 滑动验证码]
+- [ele-admin/EasyCaptcha](https://github.com/ele-admin/EasyCaptcha) — Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+- [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) — Leading free and open-source face recognition system
+- [cporter202/automate-faceless-content](https://github.com/cporter202/automate-faceless-content) — Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [dennisyang1986/opensqt\_market\_maker](https://github.com/dennisyang1986/opensqt_market_maker) — OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+- [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) — AI-Powered Dark Web OSINT Tool
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) — A cross-platform video structuring (video analysis) framework based on CV models & mLLM.
+- [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) — A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
+- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) —  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui)
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) — Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) — A book for Learning the Foundations of LLMs
+- [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) — 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
+- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) — 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+- [readur/readur](https://github.com/readur/readur) — Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — An Open Source implementation of Notebook LM with more flexibility and features
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) — 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+
+
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free
+- [Lake1059/FFmpegFreeUI](https://github.com/Lake1059/FFmpegFreeUI) — 3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [Jason2Brownlee/awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books) — Awesome LLM Books: Curated list of books on Large Language Models
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) — Native Proxy Experience Built for macOS
+- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- [labring/FastGPT](https://github.com/labring/FastGPT) — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+- [browser-use/qa-use](https://github.com/browser-use/qa-use)
+- [droidrun/mobilerun](https://github.com/droidrun/mobilerun) — Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+- [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) — 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) — Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+- [ananddtyagi/cc-marketplace](https://github.com/ananddtyagi/cc-marketplace) — Marketplace repo for Claude Code Plugins
+- [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) — 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) — ASCIIFlow
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding)
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [rossant/awesome-math](https://github.com/rossant/awesome-math) — A curated list of awesome mathematics resources
+- [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) — An Open-Source AI Writing Project.
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
+- [cubewhy/skid-homework](https://github.com/cubewhy/skid-homework) — Ergonomically designed, AI-powered homework solver. | 符合人体工程学设计、人工智能驱动的作业助手 | 平庸者的苦工到此为止，这是来自外星的效率补丁 (by Gemini)
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) — 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) — High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
+- [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) — Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) — Open-Source API Development Ecosystem • <https://hoppscotch.io> • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) — An unidentifiable mechanism that helps you bypass GFW.
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) — 🔥 Clone and recreate any website as a modern React app in seconds
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) — The Librum client application
+- [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) — 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
+- [dromara/MaxKey](https://github.com/dromara/MaxKey) — Dromara MaxKey 🗝️ SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) — Research papers and blogs to transition to AI Engineering
+- [allinssl/allinssl](https://github.com/allinssl/allinssl) — AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) — Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [DmTomHL/Google-AI-Red-Team-Tutorial-ZH\_CN](https://github.com/DmTomHL/Google-AI-Red-Team-Tutorial-ZH_CN)
+- [schollz/croc](https://github.com/schollz/croc) — Easily and securely send things from one computer to another :crocodile: :package:
+- [alibaba/QLExpress](https://github.com/alibaba/QLExpress) — QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.
+- [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) — 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+- [readest/readest](https://github.com/readest/readest) — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+- [jaywcjlove/nginx-tutorial](https://github.com/jaywcjlove/nginx-tutorial) — Nginx安装维护入门学习笔记，以及各种实例。
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) — Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) — Convert PDF to HTML without losing text or format.
+- [opendaxpay/dax-pay-ui](https://github.com/opendaxpay/dax-pay-ui) — daxpay支付系统web端。
+- [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) — A spider for X (Twitter)
+- [apify/crawlee](https://github.com/apify/crawlee) — Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+- [apache/incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) — OplaPlanner has moved to <https://github.com/apache/incubator-kie-drools>. This repository is archived. OptaPlanner is an AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
+- [pf4j/pf4j-spring](https://github.com/pf4j/pf4j-spring) — Plugin Framework for Spring (PF4J - Spring Framework integration)
+- [hank-cp/sbp](https://github.com/hank-cp/sbp) — Plugin framework for Spring Boot based on pf4j.
+- [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) — :books: 极客时间电子书
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — 21 Lessons, Get Started Building with Generative AI
+- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) — ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+- [handsomestWei/sl651-2014](https://github.com/handsomestWei/sl651-2014) — sl651-2014水文通讯协议netty服务端实现
+- [guocay/hj212-protocol](https://github.com/guocay/hj212-protocol) — 用于支持符合《污染物在线监控（监测）系统数据传输标准》(HJ212协议)物联网设备的数据解析.
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) — ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+- [ShouChenICU/WebCamera](https://github.com/ShouChenICU/WebCamera) — 基于WebRTC的点对点网络摄像头实时监控工具
+- [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) — Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+
+
+- [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) — This is a list of links to different freely available learning resources about computer programming, math, and science.
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) — Ghidra is a software reverse engineering (SRE) framework
+- [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) — 翻墙-科学上网
+- [varletjs/varlet](https://github.com/varletjs/varlet) — A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.
+- [amber-lang/amber](https://github.com/amber-lang/amber) — 💎 Amber the programming language compiled to Bash/Ksh/Zsh
+- [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) — 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) — 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) — Python scraper based on AI
+- [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) — 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+- [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) — 最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker\&Container technologies, with real DevOps practice!
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) — A terminal for a more modern age
+- [opentiny/tiny-engine](https://github.com/opentiny/tiny-engine) — TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台
+- [nuejs/nue](https://github.com/nuejs/nue) — Fastest way to build modern websites
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) — Official electron build of draw.io
+- [binarywang/WxJava](https://github.com/binarywang/WxJava) — 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
+- [jfree/jfreechart](https://github.com/jfree/jfreechart) — A 2D chart library for Java applications (JavaFX, Swing or server-side).
+- [alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) — 📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.
+- [alibaba/nacos](https://github.com/alibaba/nacos) — an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) — All-in-one IoT Platform - Device management, data collection, processing and visualization.
+- [dromara/liteflow](https://github.com/dromara/liteflow) — Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestration, multi-language scripting, nested rules, hot deployment and smooth refresh. If you can orchestrate LiteFlow, you can orchestrate AI.
+- [Netflix/ribbon](https://github.com/Netflix/ribbon) — Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
+- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) — A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [spring-cloud/spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) — Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...
+- [zlt2000/microservices-platform](https://github.com/zlt2000/microservices-platform) — 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。
+- [zfile-dev/zfile](https://github.com/zfile-dev/zfile) — 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+- [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) — Microservice Architecture with Spring Boot, Spring Cloud and Docker
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) — Spring Framework
+- [troyzhxu/okhttps](https://github.com/troyzhxu/okhttps) — 如艺术一般优雅，像 1、2、3 一样简单，前后端通用，轻量却强大的 HTTP 客户端（同时支持 WebSocket 与 Stomp 协议）
+- [grafana/grafana](https://github.com/grafana/grafana) — The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) — 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+- [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) — 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+- [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) — 《史上最简单的Spring Cloud教程源码》
+- [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) — 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：<https://mrbird.cc>
+- [Javen205/IJPay](https://github.com/Javen205/IJPay) — IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨
+- [justauth/JustAuth](https://github.com/justauth/JustAuth) — 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) — 🚀一个用来深入学习并实战 Spring Boot 的项目。
+- [foldright/auto-pipeline](https://github.com/foldright/auto-pipeline) — 🚀 auto-pipeline is a source code generator that auto generate the component's pipeline.
+- [BVLC/caffe](https://github.com/BVLC/caffe) — Caffe: a fast open framework for deep learning.
+- [apache/pulsar](https://github.com/apache/pulsar) — Apache Pulsar - distributed pub-sub messaging system
+- [apache/kafka](https://github.com/apache/kafka) — Apache Kafka - A distributed event streaming platform
+- [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) — An open autonomous driving platform
+- [apolloconfig/apollo](https://github.com/apolloconfig/apollo) — Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) — Kubernetes Native Edge Computing Framework (project under CNCF)
+- [xuxueli/xxl-job](https://github.com/xuxueli/xxl-job) — A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) — Distributed scheduled job
+- [alibaba/druid](https://github.com/alibaba/druid) — 阿里云计算平台DataWorks(<https://help.aliyun.com/document_detail/137663.html>) 团队出品，为监控而生的数据库连接池
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) — Hackable Markdown Editor and Viewer (WIP)
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) — Cross-platform, customizable ML solutions for live and streaming media.
+- [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) — An powerful enhanced toolkit of MyBatis for simplify development
+- [alibaba/easyexcel](https://github.com/alibaba/easyexcel) — 快速、简洁、解决大文件内存溢出的java处理Excel工具
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) — Production-Grade Container Scheduling and Management
+- [thombergs/code-examples](https://github.com/thombergs/code-examples) — A collection of code examples from blog posts etc.
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) — JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [pagehelper-org/Mybatis-PageHelper](https://github.com/pagehelper-org/Mybatis-PageHelper) — Mybatis通用分页插件
+- [apache/poi](https://github.com/apache/poi) — Mirror of Apache POI gitbox. The Java API for Microsoft Documents.
+- [cglib/cglib](https://github.com/cglib/cglib) — cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.
+- [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) — SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 4 、Spring Cloud 2025、Java 21  等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
+- [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) — 云收藏 Spring Boot 2.X 开源项目
+- [codedrinker/community](https://github.com/codedrinker/community) — 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
+- [Heeexy/SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) — 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
+- [pig-mesh/pig](https://github.com/pig-mesh/pig) — ↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.
+
+
+- [elunez/eladmin](https://github.com/elunez/eladmin) — eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+- [neo4j/neo4j](https://github.com/neo4j/neo4j) — Graphs for Everyone
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) — Collection of publicly available libraries
+- [baidu/amis](https://github.com/baidu/amis) — 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [Knight-ZXW/BlockCanaryX](https://github.com/Knight-ZXW/BlockCanaryX) — 🔥基于堆栈采样，使用函数火焰图的形式展示Android Main Looper的慢消息处理过程，定位阻塞原因
+- [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) — Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) — ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
+- [jwtk/jjwt](https://github.com/jwtk/jjwt) — Java JWT: JSON Web Token for Java and Android
+- [APIJSON/APIJSON](https://github.com/APIJSON/APIJSON) — 🏆 Real-Time no-code, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) — Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for sketching hand-drawn like diagrams
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) — Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [opencv/opencv](https://github.com/opencv/opencv) — Open Source Computer Vision Library
+- [RameshMF/spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) — 100+ Spring Boot Articles, Tutorials, Video tutorials,  Projects, Guides, Source code examples etc
+- [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) — An app to view libraries used in apps in your device.
+- [luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister) — 基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC
+- [angcyo/DslTabLayout](https://github.com/angcyo/DslTabLayout) — :hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等
+- [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) — An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [imaNNeo/fl\_chart](https://github.com/imaNNeo/fl_chart) — FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.
+- [JakeWharton/picnic](https://github.com/JakeWharton/picnic) — A Kotlin DSL and Java/Kotlin builder API for constructing HTML-like tables which can be rendered to text
+- [JakeWharton/diffuse](https://github.com/JakeWharton/diffuse) — Diffuse is a tool for diffing APKs, AABs, AARs, and JARs
+- [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) — A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) — An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [tingshuonitiao/CreateActivityPlugin](https://github.com/tingshuonitiao/CreateActivityPlugin) — A gradle plugin to create Activity.
+- [Tencent/Taitank](https://github.com/Tencent/Taitank) — Taitank is a cross platform lightweight flex layout engine implemented in C++.
+- [4thline/cling](https://github.com/4thline/cling) — UPnP/DLNA library for Java and Android
+- [lysine-dev/retrofit](https://github.com/lysine-dev/retrofit) — A type-safe HTTP client for Android and the JVM
+- [KeepSafe/ReLinker](https://github.com/KeepSafe/ReLinker) — A robust native library loader for Android.
+- [facebook/SoLoader](https://github.com/facebook/SoLoader) — Native code loader for Android
+- [google/j2objc](https://github.com/google/j2objc) — A Java to iOS Objective-C translation tool and runtime.
+- [TextureGroup/Texture](https://github.com/TextureGroup/Texture) — Smooth asynchronous user interfaces for iOS apps.
+- [wendux/DSBridge-Android](https://github.com/wendux/DSBridge-Android) — :earth_americas: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.
+- [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) — An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.
+- [didi/booster](https://github.com/didi/booster) — 🚀Optimizer for mobile applications
+- [MichaelRocks/lightsaber](https://github.com/MichaelRocks/lightsaber) — Compile time dependency injection framework for JVM languages. Especially for Kotlin.
+- [Karumi/Dexter](https://github.com/Karumi/Dexter) — Android library that simplifies the process of requesting permissions at runtime.
+- [bytedance/btrace](https://github.com/bytedance/btrace) — 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
+- [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) — Tiny, easily embeddable HTTP server in Java.
+- [ktorio/ktor](https://github.com/ktorio/ktor) — Framework for quickly creating connected applications in Kotlin with minimal effort
+- [google/ksp](https://github.com/google/ksp) — Kotlin Symbol Processing API
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) — FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
+- [Tencent/mars](https://github.com/Tencent/mars) — Mars is a cross-platform network component  developed by WeChat.
+- [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) — 🔥🔥🔥 BigImage ImageView ViewPager 一个图片/视频浏览器库，支持超大图、超长图、动图、视频，支持手势，支持查看原图、下载、加载百分比进度显示。采用区块复用加载，优化内存占用，有效避免OOM。
+- [jenly1314/WeChatQRCode](https://github.com/jenly1314/WeChatQRCode) — ⛄ 基于OpenCV开源的微信二维码引擎移植的二维码扫码识别库
+- [square/kotlinpoet](https://github.com/square/kotlinpoet) — A Kotlin API for generating .kt source files.
+- [didi/DRouter](https://github.com/didi/DRouter) — Android Router Framework
+- [meituan/WMRouter](https://github.com/meituan/WMRouter) — WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
+- [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) — 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
+- [5A59/android-training](https://github.com/5A59/android-training) — 【Android 修炼手册】
+- [androidx/androidx](https://github.com/androidx/androidx) — Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+- [google/cameraview](https://github.com/google/cameraview) — [DEPRECATED] Easily integrate Camera features into your Android app
+- [gskinnerTeam/flokk](https://github.com/gskinnerTeam/flokk) — A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.
+- [gskinnerTeam/flutter-folio](https://github.com/gskinnerTeam/flutter-folio) — A platform adaptive Flutter app for desktop, mobile and web.
+- [android/codelab-android-compose](https://github.com/android/codelab-android-compose)
+- [flutter/samples](https://github.com/flutter/samples) — A collection of Flutter examples and demos
+- [flutter-team-archive/gallery](https://github.com/flutter-team-archive/gallery) — Flutter Gallery was a resource to help developers evaluate and use Flutter
+- [bytedance/bhook](https://github.com/bytedance/bhook) — 通用的Android PLT hook库，支持armeabi-v7a，arm64-v8a，x86，x86_64
+- [dart-lang/pub-dev](https://github.com/dart-lang/pub-dev) — The pub.dev website
+- [sky124380729/levi-vue-admin](https://github.com/sky124380729/levi-vue-admin)
+- [Tencent/mxflutter](https://github.com/Tencent/mxflutter) — 使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。
+- [wuba/Fair](https://github.com/wuba/Fair) — A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
+- [android/compose-samples](https://github.com/android/compose-samples) — Official Jetpack Compose samples.
+- [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) — 国内低代码平台从业者交流
+- [newbee-ltd/newbee-mall-vue-app](https://github.com/newbee-ltd/newbee-mall-vue-app) — 🔥 🎉Vue2 全家桶 + Vant 搭建大型单页面商城项目。新蜂商城前后端分离版本-前端Vue项目源码
+- [quickhybrid/quickhybrid](https://github.com/quickhybrid/quickhybrid) — 快速混合开发框架，JSBridge提供核心Android、iOS功能。多平台API支撑，部分兼容浏览器
+- [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) — Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to deliver exceptional customer experiences quickly and easily.
+- [haoxianrui/mall-app-vant](https://github.com/haoxianrui/mall-app-vant) — 有来商城youlai-mall移动APP端，技术栈：Vant，已计划变更使用uni-app适配Android、IOS端开发。
+- [ehang-io/nps](https://github.com/ehang-io/nps) — 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+
+
+- [notable/notable](https://github.com/notable/notable) — The Markdown-based note-taking app that doesn't suck.
+- [youzan/vant](https://github.com/youzan/vant) — A lightweight, customizable Vue UI library for mobile web apps.
+- [didi/cube-ui](https://github.com/didi/cube-ui) — :large_orange_diamond: A fantastic mobile ui lib implement by Vue
+- [magiepooh/RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) — ItemDecoration for RecyclerView using LinearLayoutManager for Android
+- [qingmei2/blogs](https://github.com/qingmei2/blogs) — 📝 The Android programing blogs（简体中文）.
+- [981011512/--](https://github.com/981011512/--) — 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理模板vue专业定制
+- [openkraken/kraken](https://github.com/openkraken/kraken) — A web standards-compliant, high-performance rendering engine based on Flutter.
+- [coil-kt/coil](https://github.com/coil-kt/coil) — Image loading for Android and Compose Multiplatform.
+- [suceser/android-open-framework-analysis](https://github.com/suceser/android-open-framework-analysis) — Android open framework analysis
+- [Tencent/matrix](https://github.com/Tencent/matrix) — Matrix is a plugin style, non-invasive APM system developed by WeChat.
+- [flutter-thrio/flutter\_thrio](https://github.com/flutter-thrio/flutter_thrio) — flutter_thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.
+- [fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) — This is a light Android file picker library.
+- [dodola/RocooFix](https://github.com/dodola/RocooFix) — another hotfix framework
+- [jasonross/Nuwa](https://github.com/jasonross/Nuwa) — Nuwa, pure java implementation, can hotfix your android application.
+- [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) — Android Signature V2 Scheme签名下的新一代渠道包打包神器
+- [didi/Hummer](https://github.com/didi/Hummer) — 一套移动端高性能高可用的动态化跨端开发框架
+- [xuexiangjys/XPush](https://github.com/xuexiangjys/XPush) — 🚀一个轻量级、可插拔的Android消息推送框架。一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等），提供有效的保活机制，支持推送的拓展，充分解耦推送和业务逻辑，解放你的双手！
+- [android/views-widgets-samples](https://github.com/android/views-widgets-samples) — Multiple samples showing the best practices in views-widgets on Android.
+- [android/ndk-samples](https://github.com/android/ndk-samples) — Android NDK samples with Android Studio
+- [bytedance/ByteX](https://github.com/bytedance/ByteX) — ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
+- [eleme/lancet](https://github.com/eleme/lancet) — A lightweight and fast AOP framework for Android App and SDK developers
+- [iqiyi/Andromeda](https://github.com/iqiyi/Andromeda) —  Andromeda simplifies local/remote communication for Android modularization
+- [standard/standard](https://github.com/standard/standard) — 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [githubliruiyuan/HybridFlutter](https://github.com/githubliruiyuan/HybridFlutter) — Flutter + V8/JsCore 动态化
+- [firebase/flutterfire](https://github.com/firebase/flutterfire) — 🔥 A collection of Firebase plugins for Flutter apps.
+- [lingochamp/Diplomat](https://github.com/lingochamp/Diplomat) — 整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。
+- [JessYanCoding/AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) — 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
+- [AndrewShen812/AssetsRefGenerator](https://github.com/AndrewShen812/AssetsRefGenerator)
+- [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) — Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) — IntelliJ IDEA 简体中文专题教程
+- [sanyuankexie/Flexml](https://github.com/sanyuankexie/Flexml) — 🚀基于Litho的Android高性能动态业务容器。
+- [qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout) — 垂直纵向的TabLayout、轻松创建纵向导航
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) — Hippy is designed to easily build cross-platform dynamic apps. 👏
+- [react/react-native](https://github.com/react/react-native) — A framework for building native applications using React
+
+
+- [react/yoga](https://github.com/react/yoga) — Yoga is an embeddable layout engine targeting web standards.
+- [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) — A declarative API to handle Android runtime permissions.
+- [Curzibn/Luban](https://github.com/Curzibn/Luban) — Luban 2（鲁班 2） —— 高效简洁的 Android 图片压缩工具库，像素级还原微信朋友圈压缩策略。(An efficient and concise Android image compression library that closely replicates the compression strategy of WeChat Moments.)
+- [lingochamp/FileDownloader](https://github.com/lingochamp/FileDownloader) — Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+- [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) — Android library to observe scroll events on scrollable views.
+- [trello-archive/RxLifecycle](https://github.com/trello-archive/RxLifecycle) — Lifecycle handling APIs for Android apps using RxJava
+- [google/auto](https://github.com/google/auto) — A collection of source code generators for Java.
+- [r0adkll/Slidr](https://github.com/r0adkll/Slidr) — Easily add slide to dismiss functionality to an Activity
+- [loopeer/shadow](https://github.com/loopeer/shadow) — Deprecated because of the performance not fine. Android custom shadow view, can replace your CardView
+- [wasabeef/glide-transformations](https://github.com/wasabeef/glide-transformations) — An Android transformation library providing a variety of image transformations for Glide.
+- [fondesa/recycler-view-divider](https://github.com/fondesa/recycler-view-divider) — A library which configures a divider for a RecyclerView.
+- [romandanylyk/PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) — An page indicator for Android ViewPager
+- [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) — Animation effects to text, not really textview
+- [Yalantis/uCrop](https://github.com/Yalantis/uCrop) — Image Cropping Library for Android
+- [aurelhubert/ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) — A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.
+- [wenqian-cai-tuya/TitleBarGradualChange](https://github.com/wenqian-cai-tuya/TitleBarGradualChange) — 仿京东标题栏渐变（包含AppBarLayout渐变、ScrollView、ListView、RecyclerView）
+- [kikoso/android-stackblur](https://github.com/kikoso/android-stackblur) — Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
+- [journeyapps/zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded) — Barcode scanner library for Android, based on the ZXing decoder
+- [iqiyi/xCrash](https://github.com/iqiyi/xCrash) — 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
+- [MeandNi/MeandNi.github.io](https://github.com/MeandNi/MeandNi.github.io) — 个人分享博客
+- [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) — A custom ViewPager title strip which gives continuous feedback to the user when scrolling
+- [lysine-dev/okhttp](https://github.com/lysine-dev/okhttp) — A meticulous HTTP client for the JVM, Android, and GraalVM.
+- [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView) — A circular ImageView for Android
+- [ihsanbal/LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) — An OkHttp interceptor which has pretty logger for request and response. +Mock support
+- [oubowu/PinnedSectionItemDecoration](https://github.com/oubowu/PinnedSectionItemDecoration) — A powerful ItemDecoration for Recyclerview, supports the common layoutmanager.
+- [H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout) — An Android TabLayout Lib
+- [H07000223/FlycoRoundView](https://github.com/H07000223/FlycoRoundView) — A library helps Android built-in views easy and convenient to set round rectangle background and accordingly related shape resources can be reduced.
+- [google/flexbox-layout](https://github.com/google/flexbox-layout) — Flexbox for Android
+- [didi/DoKit](https://github.com/didi/DoKit) — 一款面向泛前端产品研发全生命周期的效率平台。
+- [sunfusheng/GlideImageView](https://github.com/sunfusheng/GlideImageView) — 基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度
+- [mmin18/RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) — A realtime blurring overlay for Android (like iOS UIVisualEffectView)
+- [HujiangTechnology/gradle\_plugin\_android\_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) — A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.
+- [douban/rexxar-android](https://github.com/douban/rexxar-android) — Mobile Hybrid Framework Rexxar Android Container
+- [Ashok-Varma/BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation) — This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations
+- [youth5201314/banner](https://github.com/youth5201314/banner) — 🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。
+- [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) — 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果
+- [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) — BRVAH:Powerful and flexible RecyclerAdapter
+- [xujiyou/zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) — Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
+- [peng8350/flutter\_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh) — a widget provided to the flutter scroll component drop-down refresh and pull up load.
+- [GanZhiXiong/GZXTaoBaoAppFlutter](https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter) — Flutter淘宝App，支持iOS、Android
+- [felangel/bloc](https://github.com/felangel/bloc) — A predictable state management library that helps implement the BLoC design pattern
+- [phoenixsky/fun\_android\_flutter](https://github.com/phoenixsky/fun_android_flutter) —  👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画
+- [ReactiveX/rxdart](https://github.com/ReactiveX/rxdart) — The Reactive Extensions for Dart
+- [alibaba/Tangram-Android](https://github.com/alibaba/Tangram-Android) — Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.
+- [alibaba/Virtualview-Android](https://github.com/alibaba/Virtualview-Android) — A light way to build UI in custom XML.
+- [happydog-intj/JsBridge](https://github.com/happydog-intj/JsBridge) — android java and javascript bridge, inspired by wechat webview jsbridge
+- [Ivaskuu/tinder\_cards](https://github.com/Ivaskuu/tinder_cards) — Tinder like cards swipe effect with Flutter.
+- [android/camera-samples](https://github.com/android/camera-samples) — Multiple samples showing the best practices in camera APIs on Android.
+- [Tencent/VasSonic](https://github.com/Tencent/VasSonic) — VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.
+- [yangchong211/YCWebView](https://github.com/yangchong211/YCWebView) — 基于腾讯x5开源库，提高webView开发效率，大概要节约你百分之六十的时间成本。该案例支持处理js的交互逻辑且无耦合、同时暴露进度条加载进度、可以监听异常error状态、支持视频播放并且可以全频、支持加载word，xls，ppt，pdf，txt等文件文档、发短信、打电话、发邮件、打开文件操作上传图片、唤起原生App、支持webView页面截图、x5库为最新版本，功能强大。
+- [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) — MPEG1 Video Decoder in JavaScript
+- [SufficientlySecure/html-textview](https://github.com/SufficientlySecure/html-textview) — TextView to display simple HTML
+- [garretyoder/Colorful](https://github.com/garretyoder/Colorful) — Android runtime theme library
+- [JingYeoh/FragmentRigger](https://github.com/JingYeoh/FragmentRigger) — :boom:A powerful library powered by AOP to manage Fragments.（一个基于AOP设计的Fragment管理框架）
+- [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView) — Give a custom shape to any android view, Material Design 2 ready
+- [zjw-swun/AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) — 一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）
+- [jiajunhui/PlayerBase](https://github.com/jiajunhui/PlayerBase) — The basic library of Android player will process complex business components. The access is simple。Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
+- [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) — High Performance Chinese License Plate Recognition Framework.
+- [JackyAndroid/AndroidChromium](https://github.com/JackyAndroid/AndroidChromium) — chrome browser of android version from chromium open project
+- [Juude/awesome-android-performance](https://github.com/Juude/awesome-android-performance) — Android performance optimization  tutorials, videos and tools list(Android性能优化视频，文档以及工具)
+- [alipay/SoloPi](https://github.com/alipay/SoloPi) — SoloPi 自动化测试工具
+- [geftimov/android-pathview](https://github.com/geftimov/android-pathview) — Android view with both path from constructed path or from svg.
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) — No clever tagline needed.
+- [zzhoujay/RichText](https://github.com/zzhoujay/RichText) — Android平台下的富文本解析器，支持Html和Markdown
+- [anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource) — RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码
+- [Yalantis/Phoenix](https://github.com/Yalantis/Phoenix) — Phoenix Pull-to-Refresh
+- [googlearchive/android-ConstraintLayoutExamples](https://github.com/googlearchive/android-ConstraintLayoutExamples) — Migrated:
+- [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) — The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
+- [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) — Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support
+- [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) — An open source GitHub Android client app, faster and concise.
+- [google/iosched](https://github.com/google/iosched) — The Google I/O Android App
+- [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) — Vue Native is a framework to build cross platform native mobile apps using JavaScript
+- [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) — 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
+- [923310233/wxOrder](https://github.com/923310233/wxOrder)
+- [CarGuo/gsy\_flutter\_demo](https://github.com/CarGuo/gsy_flutter_demo) — Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。
+- [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) — 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base one.
+- [Tencent/tinker](https://github.com/Tencent/tinker) — Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
+- [Tencent/Shadow](https://github.com/Tencent/Shadow) — 零反射全动态Android插件框架
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) — 📝 Minimalistic Vue-powered static site generator
+- [alibaba/flutter-go](https://github.com/alibaba/flutter-go) — flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+- [googlehosts/hosts](https://github.com/googlehosts/hosts) — 镜像：<https://scaffrey.coding.net/p/hosts/git> / <https://git.qvq.network/googlehosts/hosts>
+- [microsoft/terminal](https://github.com/microsoft/terminal) — The new Windows Terminal and the original Windows console host, all in the same place!
+- [ZDfordream/FlutterTianYue](https://github.com/ZDfordream/FlutterTianYue) — 基于Flutter的超完整仿腾讯动漫，小说阅读，抖音视频项目，功能丰富，适合学习和日常使用，拥有较好的项目结构&比较规范的代码！Flutter入门，看这个就够了～Flutter project which  provide richer functionality, if you want to learn flutter, this project is a good choice
+- [flutter-team-archive/plugins](https://github.com/flutter-team-archive/plugins) — Plugins for Flutter maintained by the Flutter team
+- [Sky24n/flutter\_wanandroid](https://github.com/Sky24n/flutter_wanandroid) — 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！
+- [zhujian1989/ZhihuDailyPurifyByFlutter](https://github.com/zhujian1989/ZhihuDailyPurifyByFlutter) — 做一个知乎日报的flutter版（用了mvp，但是个人不推荐)，官方app侧边栏拉取主题分类的接口不返回数据了。。
+- [facebook/litho](https://github.com/facebook/litho) — A declarative framework for building efficient UIs on Android.
+- [macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web) — mall-admin-web是一个电商后台管理系统的前端项目，基于Vue 3+Element Plus实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+- [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) — A persistent service that generates mock data quickly and provids visualization view.
+- [linlinjava/litemall](https://github.com/linlinjava/litemall) — 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+- [lenve/VBlog](https://github.com/lenve/VBlog) — V部落，Vue+SpringBoot实现的多用户博客管理平台!
+- [lenve/vhr](https://github.com/lenve/vhr) — 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+- [macrozheng/mall](https://github.com/macrozheng/mall) — mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+- [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) — about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+- [square/leakcanary](https://github.com/square/leakcanary) — A memory leak detection library for Android.
+- [2d-inc/HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) — Flutter Launch Timeline Demo
+- [openstf/stf](https://github.com/openstf/stf) — Control and manage Android devices from your browser.
+- [Kotlin/anko](https://github.com/Kotlin/anko) — Pleasant Android application development
+- [airbnb/mavericks](https://github.com/airbnb/mavericks) — Mavericks: Android on Autopilot
+- [yidao620c/SpringBootBucket](https://github.com/yidao620c/SpringBootBucket) — Springboot bucket
+- [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) — 一套高质量的微信小程序 UI 组件库
+- [jeanboydev/Android-ReadTheFuckingSourceCode](https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode) — 😜 记录日常的开发技巧，开发中遇到的技术重点、难点，各个知识点的总结，优质面试题等等。持续更新...
+- [anggrayudi/android-hidden-api](https://github.com/anggrayudi/android-hidden-api) — A library that provides access to Android hidden APIs and internal resources.
+- [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) — RxJava binding APIs for Android's UI widgets.
+- [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions) — Android runtime permissions powered by RxJava2
+- [square/javapoet](https://github.com/square/javapoet) — A Java API for generating .java source files.
+- [firebase/quickstart-android](https://github.com/firebase/quickstart-android) — Firebase Quickstart Samples for Android
+- [ssseasonnn/Yasha](https://github.com/ssseasonnn/Yasha) — A DSL library for rendering RecyclerView and ViewPager.
+- [android/testing-samples](https://github.com/android/testing-samples) — A collection of samples demonstrating different frameworks and techniques for automated testing
+- [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) — Logan is a lightweight case logging system based on mobile platform.
+- [android/codelab-android-navigation](https://github.com/android/codelab-android-navigation)
+- [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) — DEPRECATED
+- [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) — Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+- [android/sunflower](https://github.com/android/sunflower) — A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
+- [siberiawolf/siberiawolf.github.io](https://github.com/siberiawolf/siberiawolf.github.io) — Siberiawolf的小窝
+- [xitu/gold-miner](https://github.com/xitu/gold-miner) — 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+- [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) — android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：<http://www.jianshu.com/p/2a884e211a62>
+- [GeekLiB/AR-Source](https://github.com/GeekLiB/AR-Source) — Augmented reality (AR) development resources(增强现实开发资源汇总)---AIRX整理
+- [Jude95/Ferryman](https://github.com/Jude95/Ferryman) — Android页面路由跳转框架
+- [listenzz/AndroidNavigation](https://github.com/listenzz/AndroidNavigation) — A library managing navigation, nested Fragment, StatusBar, Toolbar for Android
+- [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) — TensorFlow 最新官方文档中文版
+- [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) — 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+- [suceser/android-open-source-project-analysis](https://github.com/suceser/android-open-source-project-analysis) — Android open source project analysis. Note: The project has been moved to <https://github.com/BeesAndroid/BeesAndroid>.
+- [android/android-ktx](https://github.com/android/android-ktx) — A set of Kotlin extensions for Android app development.
+- [alibaba/dexposed](https://github.com/alibaba/dexposed) — dexposed enable 'god' mode for single android application.
+- [Lesincs/SimpleFilmReview](https://github.com/Lesincs/SimpleFilmReview) — 完全以kotlin实现的Android影评App, MVP+RXKotlin+Retrofit
+- [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) — A Material design back port of Android's CalendarView
+- [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) — Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
+- [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid) — RxJava bindings for Android
+- [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) — JetBrains theme of Material Theme
+- [google/enjarify](https://github.com/google/enjarify)
+- [google/dagger](https://github.com/google/dagger) — A fast dependency injector for Android and Java.
+- [flutter/flutter](https://github.com/flutter/flutter) — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) — Rx和RxJava文档中文翻译项目
+- [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) — :melon: RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
+- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) — RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [Tencent/QMUI\_Android](https://github.com/Tencent/QMUI_Android) — 提高 Android UI 开发效率的 UI 库
+- [square/flow](https://github.com/square/flow) — Name UI states, navigate between them, remember where you've been.
+- [heipidage/GcmForMojo](https://github.com/heipidage/GcmForMojo)
+- [AndreiD/TSnackBar](https://github.com/AndreiD/TSnackBar) — Android Snackbar from the Top (similar to Crouton)
+- [fython/Blackbulb](https://github.com/fython/Blackbulb) — Night Screen - Material Design Screen Filter
+- [crosg/FloatMenuSample](https://github.com/crosg/FloatMenuSample) — android 悬浮窗菜单，可在launcher或app中使用
+- [JZXiang/TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) — An Android time picker library.
+- [didi/VirtualAPK](https://github.com/didi/VirtualAPK) — A powerful and lightweight plugin framework for Android
+- [zhihu/Matisse](https://github.com/zhihu/Matisse) — :fireworks: A well-designed local image and video selector for Android
+- [zhanghai/PatternLock](https://github.com/zhanghai/PatternLock) — Material Design Pattern Lock with auth flow implementation
+- [JakeWharton/hugo](https://github.com/JakeWharton/hugo) — Annotation-triggered method call logging for your debug builds.
+- [Show-Me-the-Code/show-me-the-code](https://github.com/Show-Me-the-Code/show-me-the-code) — Python 练习册，每天一个小程序
+- [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) — Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
+- [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) — 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+- [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) — Deep Learning Book Chinese Translation
+- [Qihoo360/RePlugin](https://github.com/Qihoo360/RePlugin) — RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
+- [airbnb/lottie-android](https://github.com/airbnb/lottie-android) — Render After Effects animations natively on Android and iOS, Web, and React Native
+- [lgvalle/Material-Animations](https://github.com/lgvalle/Material-Animations) — Android Transition animations explanation with examples.
+- [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) — 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+- [aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView) — An easy-to-use, customizable and Material Design ready Pattern Lock view for Android
+- [afollestad/aesthetic](https://github.com/afollestad/aesthetic) — [DEPRECATED]
+- [alibaba/ARouter](https://github.com/alibaba/ARouter) — 💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)
+- [HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) — Android slanted TextView.
+- [Todd-Davies/ProgressWheel](https://github.com/Todd-Davies/ProgressWheel) — A progress wheel for android, intended for use instead of the standard progress bar.
+- [XRecyclerView/XRecyclerView](https://github.com/XRecyclerView/XRecyclerView) — A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView
+- [Baseflow/PhotoView](https://github.com/Baseflow/PhotoView) — Implementation of ImageView for Android that supports zooming, by various touch gestures.
+- [ACRA/acra](https://github.com/ACRA/acra) — Application Crash Reports for Android
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) — An Open Source Machine Learning Framework for Everyone
+- [bmelnychuk/AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) — AndroidTreeView. TreeView implementation for android
+- [alibaba/atlas](https://github.com/alibaba/atlas) — A powerful Android Dynamic Component Framework.
+- [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) — Android Floating Action Button based on Material Design specification
+- [oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) — an animated circular menu for Android
+- [rubensousa/PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) — A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
+- [GrenderG/Toasty](https://github.com/GrenderG/Toasty) — The usual Toast, but with steroids 💪
+- [TonnyL/Awesome\_APIs](https://github.com/TonnyL/Awesome_APIs) — :octocat: A collection of APIs
+- [guolindev/LitePal](https://github.com/guolindev/LitePal) — An Android library that makes developers use SQLite database extremely easy.
+- [Jude95/SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper) — make your activity can swipe to close
+- [franmontiel/PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar) — A persistent CookieJar implementation for OkHttp 3 based on SharedPreferences.
+- [JakeWharton/timber](https://github.com/JakeWharton/timber) — A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [orhanobut/logger](https://github.com/orhanobut/logger) — ✔️ Simple, pretty and powerful logger for android
+- [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) — Ultra Pull to Refresh for Android. Support all the views.
+- [qinjx/30min\_guides](https://github.com/qinjx/30min_guides) — 覃健祥的学习笔记，各种几十分钟入门的文档
+- [DroidNinja/Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) — Photopicker and document picker for android
+- [bingoogolapple/BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) — Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
+- [crazycodeboy/TakePhoto](https://github.com/crazycodeboy/TakePhoto) — 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+- [Jude95/EasyRecyclerView](https://github.com/Jude95/EasyRecyclerView) — ArrayAdapter,pull to refresh,auto load more,Header/Footer,EmptyView,ProgressView,ErrorView
+- [ZQiang94/Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs) — :rose:【停止维护】
+- [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) — :fire: Android developers should collect the following utils(updating).
+- [hongyangAndroid/FlowLayout](https://github.com/hongyangAndroid/FlowLayout) — [不再维护]Android流式布局，支持单选、多选等，适合用于产品标签等。
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) — :books: Freely available programming books
+- [francistao/LearningNotes](https://github.com/francistao/LearningNotes) — Enjoy Learning.
+- [greenrobot/EventBus](https://github.com/greenrobot/EventBus) — Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [jiang111/awesome-android-tips](https://github.com/jiang111/awesome-android-tips) — some code tips for android 💯
+- [tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips) — An awesome list of tips for Android.
+- [Freelander/Android\_Data](https://github.com/Freelander/Android_Data) — Some Android learning materials, hoping to help you learn Android development.
+- [H07000223/FlycoDialog\_Master](https://github.com/H07000223/FlycoDialog_Master) — An Android Dialog Lib simplify customization.
+- [hitherejoe/animate](https://github.com/hitherejoe/animate) — An application demoing meaningful motion on Android
+- [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) — A curated list of awesome Android UI/UX libraries
+- [Trinea/android-open-project](https://github.com/Trinea/android-open-project) — A categorized collection of Android Open Source Projects,  More powerful web version:
+- [zhonghanwen/AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) — Android Studio generate proguard codes
+- [happydog-intj/Awesome-RxJava](https://github.com/happydog-intj/Awesome-RxJava) — RxJava resources
+- [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) — Fast Android Development. Easy maintainance.
+- [android/architecture-samples](https://github.com/android/architecture-samples) — A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "minute-quality-small-template",
+  "purpose": "experimental",
+  "symbols": [
+    {
+      "symbol": "600000.SH",
+      "board": "MAIN"
+    },
+    {
+      "symbol": "300750.SZ",
+      "board": "CHINEXT"
+    },
+    {
+      "symbol": "688981.SH",
+      "board": "STAR"
+    }
+  ],
+  "calendar": {
+    "version": null,
+    "evidence": null,
+    "dates": [
+      "2026-10-29"
+    ],
+    "sessions": [
+      [
+        "09:30",
+        "11:30"
+      ],
+      [
+        "13:00",
+        "15:00"
+      ]
+    ]
+  },
+  "profiles": [
+    {
+      "provider": "tickflow",
+      "dataset": "minute_history",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    },
+    {
+      "provider": "tickflow",
+      "dataset": "intraday",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    },
+    {
+      "provider": "tushare",
+      "dataset": "minute_history",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    },
+    {
+      "provider": "tushare",
+      "dataset": "minute_quotes",
+      "timestamp_label": "unknown",
+      "completion": "unknown",
+      "volume_unit": "unknown",
+      "amount_unit": "unknown",
+      "turnover_mode": "unknown",
+      "adjustment": "unknown",
+      "max_observation_delay_seconds": null,
+      "evidence": {
+        "timestamp": null,
+        "completion": null,
+        "units": null,
+        "turnover": null,
+        "adjustment": null
+      },
+      "timestamp_timezone": "unknown"
+    }
+  ]
+}
